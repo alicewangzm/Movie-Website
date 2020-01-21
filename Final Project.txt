@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>Movies</title>
+</head>
+<frameset rows="215,*">
+<frame src="Movie Heading.html">
+<frameset cols="20%,80%">
+<frame src="Topics.html">
+<frame src="Welcome.html" name="main">
+</frameset>
+</frameset>
+</html>

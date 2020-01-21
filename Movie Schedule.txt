@@ -1,0 +1,52 @@
+<html>
+<head>
+<title>Movie Schedule</title>
+</head>
+<body>
+<table border="1">
+
+<tr>
+<td>Movies Name</td>
+<td>Starting Time</td>
+</tr>
+
+<tr>
+<td>Solo: A Star Wars Story</td>
+<td>7:30 pm</td>
+</tr>
+
+<tr>
+<td>Deadpool 2</td>
+<td>12:45 pm</td>
+</tr>
+
+<tr>
+<td>Avengers: Infinity War</td>
+<td>12:15 pm</td>
+</tr>
+
+<tr>
+<td>Book Club</td>
+<td>1:50 pm</td>
+</tr>
+
+<tr>
+<td>Breaking In</td>
+<td>12:35 pm</td>
+</tr>
+
+<tr>
+<td>Life Of The Party</td>
+<td>12:25 pm</td>
+</tr>
+
+<tr>
+<td>Show Dogs</td>
+<td>12:30 pm</td>
+</tr>
+
+</table>
+
+
+</body>
+</html>

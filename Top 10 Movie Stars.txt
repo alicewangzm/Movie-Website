@@ -1,0 +1,59 @@
+
+<html>
+<head>
+<title>Top 10 Movie Stars</title>
+</head>
+<body>
+<table border="0" cellspacing="20">
+
+
+<tr>
+<td><img src="Pictures/Emma.jpg"height="188" width="188"/></td>
+<td><img src="Pictures/Audrey.jpeg"height="188" width="188"/></td>
+<td><img src="Pictures/Crystal.jpg"height="188" width="188"/></td>
+</tr>
+
+<tr align="center">
+<td><font size="4">Emma Watson</font></td>
+<td><font size="4">Audrey Hepburn</font></td>
+<td><font size="4">Crystal Liu</font></td>
+</tr>
+
+<tr>
+<td><img src="Pictures/Gal.jpg"height="188" width="188"/></td>
+<td><img src="Pictures/Jennifer.jpg"height="188" width="188"/></td>
+<td><img src="Pictures/Emilia.jpg"height="188" width="188"/></td>
+</tr>
+
+<tr align="center">
+<td><font size="4">Gal Gadot</font></td>
+<td><font size="4">Jennifer Lawrence</font></td>
+<td><font size="4">Emilia Clarke</font></td>
+</tr>
+
+
+<tr>
+<td><img src="Pictures/Johnny.jpg"height="188" width="188"/></td>
+<td><img src="Pictures/Benedict.png"height="188" width="188"/></td>
+<td><img src="Pictures/Leonardo.jpeg"height="188" width="188"/></td>
+</tr>
+
+<tr align="center">
+<td><font size="4">Johnny Depp</font></td>
+<td><font size="4">Benedict Cumberbatch</font></td>
+<td><font size="4">Leonardo DiCaprio</font></td>
+</tr>
+
+<tr>
+<td><img src="Pictures/Morgan.jpeg"height="188" width="188"/></td>
+</tr>
+
+<tr align="center">
+<td><font size="4">Morgan Freeman</font></td>
+</tr>
+
+</table>
+
+
+</body>
+</html>

@@ -1,0 +1,18 @@
+<html>
+<head>
+<title>Top 10 Movie Quotes</title>
+</head>
+<body>
+<h5>1. ¡°Life is a little bit messy. We all make mistakes. No matter what type of animal you are, change starts with you.¡± ¡ª<i>Zootopia</i></h5>
+<h5>2. ¡°I hope one day you have the courage to run away from everything that makes you miserable.¡± ¡ª<i>Spirited Away</i></h5>
+<h5>3. ¡°Don¡¯t ever let somebody tell you you can¡¯t do something, not even me. Alright? You dream, you gotta protect it. People can¡¯t do something themselves, they wanna tell you you can¡¯t do it. If you want something, go get it. Period.¡± ¡ª<i>The Pursuit of Happiness</i></h5>
+<h5>4. Nobody is gonna hit as hard as life, but it ain¡¯t hard you can hit. It¡¯s how hard you can get hit and keep moving forward. It¡¯s how much you can take, and keep moving forward. That¡¯s how winning is done.¡± ¡ª<i>Rocky Balboa</i></h5>
+<h5>5. ¡°Get busy livin¡¯, or get busy dyin¡¯.¡± ¡ª<i>The Shawshank Redemption</i></h5>
+<h5>6. ¡°Calling someone fat doesn¡¯t make you any skinnier. Calling someone stupid doesn't make you any smarter. All you can do in life is try and solve the problem in front of you.¡± ¡ª<i>Mean Girls</i></h5>
+<h5>7. ¡°It¡¯s not our abilities that show what we truly are. It is our choices.¡± ¡ª<i>Harry Potter and the Chamber of Secrets</i></h5>
+<h5>8. ¡°The flower that blooms in adversity is the most rare and beautiful of all.¡± ¡ª<i>Mulan</i></h5>
+<h5>9. ¡°In this life time, you don¡¯t have to prove nothing to nobody, except yourself. And after what you¡¯ve gone through, if you haven¡¯t done that by now, it ain¡¯t gonna never happen.¡± ¡ª<i>Rudy</i></h5>
+<h5>10. ¡°Oh yes, the past can hurt. But you can either run from it, or learn from it.¡± ¡ª<i>The Lion King</i></h5>
+
+</body>
+</html>
